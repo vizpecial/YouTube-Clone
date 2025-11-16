@@ -20,3 +20,14 @@ A simple YouTube-inspired UI clone built to practice front-end development and r
 - Practice layout techniques using Flexbox and basic responsive design
 - Improve consistency in spacing, colors, and typography
 - Structure a small front-end project in a clean, readable way
+
+## Future Improvements
+
+- Add search bar interactions and basic filtering
+- Create a dedicated video watch page layout
+- Add dark mode
+- Integrate real data using an API (e.g., YouTube Data API) in a future version
+
+## About the Developer
+
+Hi, I’m Vishesh Goswami, a B.Tech student exploring full stack development and DevOps. Projects like this help me strengthen my front-end fundamentals and understand how real products are designed and implemented.
